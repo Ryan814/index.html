@@ -447,3 +447,11 @@ footer {
 	margin-top: 15px;
 	margin-right: 15px;
 }
+
+/*===================RWD==================*/
+
+@media sreen and (max-width: 1023px) {
+		.cnotainer {
+			width: auto;
+		}
+}
